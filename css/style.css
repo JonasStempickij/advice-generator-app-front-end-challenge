@@ -154,12 +154,12 @@ button:hover {
 .divider {
   display: block;
   margin: 1rem 0;
-  content: url("/images/pattern-divider-mobile.svg");
+  content: url("../images/pattern-divider-mobile.svg");
 }
 
 @media (min-width: 950px) {
   .divider {
-    content: url("/images/pattern-divider-desktop.svg");
+    content: url("../images/pattern-divider-desktop.svg");
   }
 }
 /*# sourceMappingURL=style.css.map */
